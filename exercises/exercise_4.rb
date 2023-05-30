@@ -24,4 +24,5 @@ end
 
 @womens_stores.each do |womens_store|
   puts womens_store.name
-  puts womens_store.annual_revenue 
+  puts womens_store.annual_revenue
+end
